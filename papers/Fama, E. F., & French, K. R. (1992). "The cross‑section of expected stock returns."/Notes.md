@@ -1,4 +1,4 @@
-# Fama & French (1992) — Markdown + LaTeX Version (Full Text Included)
+# Fama & French (1992) "The cross‑section of expected stock returns."
 
 The Fama & French (1992) paper shows that firm size and the book‑to‑market equity ratio (how much the company is worth on paper vs. how much the market thinks the company is worth) explain most of the cross‑sectional variation in U.S. stocks.
 
