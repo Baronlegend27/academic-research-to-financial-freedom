@@ -11,20 +11,12 @@ The authors form portfolios based on beta, size, leverage, B/M, and earnings-pri
 We first determine how sensitive each asset is to a specific factor by running a regression for every single asset in the sample over time.
 
 **Variables:**
-
 - $R_{i,t}$: Return of asset $i$ at time $t$  
 - $\beta_{i,F}$: The **factor loading** (how much the asset moves with the factor)
 
 The result is an estimate of $\beta$ for every asset, which we treat as a known variable for the next step.
 
-$$
-R_{i,t} - R_{f,t}
-= \alpha_i
-+ \beta_{i,F1} \cdot F1_t
-+ \beta_{i,F2} \cdot F2_t
-+ \beta_{i,F3} \cdot F3_t
-+ \varepsilon_{i,t}
-$$
+$$R_{i,t} - R_{f,t} = \alpha_i + \beta_{i,F1} \cdot F1_t + \beta_{i,F2} \cdot F2_t + \beta_{i,F3} \cdot F3_t + \varepsilon_{i,t}$$
 
 ---
 
@@ -33,19 +25,12 @@ $$
 Next, we test if assets with higher betas actually earn higher average returns. Instead of regressing over time, we regress **across all assets** at each individual time period $t$.
 
 **Variables:**
-
 - The **risk premium** $\lambda_{1,t}$ for that specific month or day  
 - The beta estimate we saved from Step 1
 
 This provides a **time series** of risk premiums $\lambda_{1,t}$.
 
-
-$$
-R_{i,t}
-= \lambda_{0,t}
-+ \lambda_{1,t}\,\beta_{i,F}
-+ \varepsilon_{i,t}
-$$
+$$R_{i,t} = \lambda_{0,t} + \lambda_{1,t}\,\beta_{i,F} + \varepsilon_{i,t}$$
 
 ---
 
