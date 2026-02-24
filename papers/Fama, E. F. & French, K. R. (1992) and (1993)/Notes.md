@@ -39,10 +39,11 @@ Next, we test if assets with higher betas actually earn higher average returns. 
 
 This provides a **time series** of risk premiums $\lambda_{1,t}$.
 
+
 $$
 R_{i,t}
 = \lambda_{0,t}
-+ \lambda_{1,t} \, \beta_{i,F}
++ \lambda_{1,t}\,\beta_{i,F}
 + \varepsilon_{i,t}
 $$
 
