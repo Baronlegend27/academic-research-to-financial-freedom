@@ -1,8 +1,19 @@
+# Fama & French (1992): *The Cross-Section of Expected Stock Returns*
+
+The **Fama & French (1992)** paper *“The Cross-Section of Expected Stock Returns”* is one of the most influential empirical studies in asset pricing. In this work, Eugene F. Fama and Kenneth R. French examine how characteristics of stocks relate to their average returns, extending beyond what the traditional Capital Asset Pricing Model (CAPM) predicts. They find that **two simple, measurable firm characteristics — *size* (market capitalization) and *book-to-market equity*** — explain a large portion of the cross-sectional variation in average stock returns. Specifically:
+
+- Stocks of **smaller firms** tend to earn higher average returns than those of larger firms.  
+- Firms with a **high book-to-market ratio** (often interpreted as *value* stocks) also tend to earn higher returns than low book-to-market (or *growth*) stocks.
+
+These results show that the relationship between return and *beta* (as predicted by CAPM) is weak once size and book-to-market effects are allowed to vary, suggesting that these additional factors provide important explanatory power for stock returns. :contentReference[oaicite:0]{index=0}
+
+---
+
 # Fama & French (1993): *Common Risk Factors in the Returns on Stocks and Bonds*
 
-The **Fama & French (1993)** paper shows that firm size and the **book-to-market equity ratio** (how much the company is worth on paper vs. how much the market thinks it is worth) explain most of the cross-sectional variation in U.S. stocks.
+The **Fama & French (1993)** paper identifies common risk factors that help explain the average returns on both stocks and bonds. While the earlier three-factor model focused primarily on stocks, this study extends the multifactor approach to **both financial markets**, emphasizing that variations in returns can be captured by a few systematic risk factors. :contentReference[oaicite:1]{index=1}
 
-The authors form portfolios based on beta, size, leverage, B/M, and earnings-price ratios. They use the **Fama–MacBeth regression** (1973) to run these cross-sectional tests.
+he authors construct portfolios based on multiple characteristics including beta, size, leverage, book-to-market equity, and earnings-price ratios and then apply the **Fama–MacBeth two-stage regression** method to examine how these characteristics relate to expected returns across assets.
 
 ## The Two-Step Process
 
