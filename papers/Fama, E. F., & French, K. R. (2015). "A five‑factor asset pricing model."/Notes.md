@@ -13,6 +13,19 @@ The motivation for the **Fama & French (2015)** paper comes from well‑document
 
 $$R_{it} - R_{ft} = \alpha_{i} + \beta_i(R_{mt} - R_{ft}) + s_i \cdot SMB_t + h_i \cdot HML_t + r_i \cdot RMW_t + c_i \cdot CMA_t + \varepsilon_{it}$$
 
+**Where:**
+
+| Symbol | Meaning |
+|--------|---------|
+| $R_{it} - R_{ft}$ | Excess return of asset $i$ over the risk-free rate at time $t$ |
+| $\alpha_i$ | Intercept — abnormal return not explained by the factors |
+| $\beta_i(R_{mt} - R_{ft})$ | Market factor — excess return of the market portfolio |
+| $s_i \cdot SMB_t$ | Size factor — Small Minus Big (small cap vs. large cap returns) |
+| $h_i \cdot HML_t$ | Value factor — High Minus Low (high vs. low book-to-market returns) |
+| $r_i \cdot RMW_t$ | Profitability factor — Robust Minus Weak (high vs. low operating profitability) |
+| $c_i \cdot CMA_t$ | Investment factor — Conservative Minus Aggressive (low vs. high investment firms) |
+| $\varepsilon_{it}$ | Error term — unexplained residual return |
+
 
 Robustness emphasis rather than new estimators: Rather than inventing new statistical estimators, Fama & French (2015) broaden the empirical scope (more sorts, more portfolios, alternative sample splits) to test the five‑factor specification’s robustness.
 
