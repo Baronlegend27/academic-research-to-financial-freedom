@@ -31,13 +31,13 @@ $$\sigma_p^2 = \sum_{i=1}^{n} \sum_{j=1}^{n} w_i w_j \cdot \text{Cov}(R_i, R_j)$
 | $w_i, w_j$ | Weights of assets $i$ and $j$ |
 | $\text{Cov}(R_i, R_j)$ | Covariance between returns of asset $i$ and asset $j$ |
 
-This formalizes **diversification** — combining assets with low or negative covariance reduces overall portfolio risk, even if individual assets are risky.
+This formalized **diversification**, which had previously been informal and lacked a rigorous, empirical foundation. Combining assets with low or negative covariance reduces overall portfolio risk, even if individual assets are risky.
 
 ---
 
 ### The Efficient Frontier
 
-A core concept introduced in *Portfolio Selection* is the **efficient frontier** — the set of portfolios that offer the best possible trade-off between risk and return. Portfolios on this frontier are *efficient* because no other portfolio can provide a higher expected return without increasing risk.
+A core concept introduced in *Portfolio Selection* is the efficient frontier. It is the set of portfolios that offer the best possible trade-off between risk and return. Portfolios on this frontier are considered efficient because no other portfolio can provide a higher expected return without increasing risk.
 
 Markowitz demonstrated mathematically how diversification can reduce overall portfolio risk by combining assets with **different return patterns and correlations**. This shift in focus from individual securities to the **interaction of assets within a portfolio** was revolutionary.
 
@@ -49,13 +49,14 @@ To find the efficient frontier, Markowitz formulated a **constrained optimizatio
 
 **Minimize:**
 
-$$\min_{\mathbf{w}} \quad \mathbf{w}^T \boldsymbol{\Sigma} \mathbf{w}$$
+$$\Large \min_{\mathbf{w}} \quad \mathbf{w}^T \boldsymbol{\Sigma} \mathbf{w}$$
 
 **Subject to:**
 
-$$\mathbf{1}^T \mathbf{w} = 1$$
+$$\Large \mathbf{1}^T \mathbf{w} = 1$$
 
-$$\boldsymbol{\mu}^T \mathbf{w} = \mu_p$$
+$$\Large \boldsymbol{\mu}^T \mathbf{w} = \mu_p$$
+
 
 | Symbol | Meaning |
 |--------|---------|
