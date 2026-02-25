@@ -45,7 +45,8 @@ Markowitz demonstrated mathematically how diversification can reduce overall por
 
 ### The Optimization Problem
 
-To find the efficient frontier, Markowitz formulated a **constrained optimization problem** — minimize portfolio variance for a given target return:
+To find the efficient frontier, Markowitz formulated a constrained optimization problem. The goal is to minimize portfolio variance for a given target return.
+
 
 **Minimize:**
 
