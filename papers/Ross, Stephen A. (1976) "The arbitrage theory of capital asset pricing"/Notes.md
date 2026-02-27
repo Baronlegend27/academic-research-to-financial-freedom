@@ -22,6 +22,36 @@ Thus, returns consist of:
 
 - **Expected return**: $\mathbb{E}[R]$
 - **Unexpected return**: $R - \mathbb{E}[R]$
+The unexpected return is the suprise return that comes from new information. The unexpected return is the only part that moves prices day to day.
+The expected return is is what the investor thought they would earn on average. 
+
+The unexpected return decomposes as:
+
+$$
+R - \mathbb{E}[R] = b_{i1}F_1 + b_{i2}F_2 + \cdots + b_{ik}F_k + \varepsilon_i
+$$
+
+Where:
+- $F_j$ is a **factor** — a systematic macroeconomic variable such as inflation or interest rates
+- $b_{ij}$ is the **factor loading** — how sensitive a stock is to a change in factor $j$
+- $\varepsilon_i$ is the **idiosyncratic risk** of a single stock (the error term)
+
+---
+
+The expected return is given by:
+
+$$
+\mathbb{E}[R] = R_f + \beta_{i1}\lambda_1 + \beta_{i2}\lambda_2 + \cdots + \beta_{ik}\lambda_k
+$$
+
+Where:
+- $R_f$ is the **risk-free rate**
+- $\beta_{ij}$ is the **factor loading** for asset $i$ on factor $j$
+- $\lambda_j$ is the **risk premium** for factor $j$ — the extra return the market offers for being exposed to one unit of risk from that factor
+
+A larger $\beta_{ij}$ for a specific factor means the asset's return is more sensitive to economic shocks from that factor.
+
+In an ideal market, $\lambda_j$ is the same for all assets, meaning the only way for an asset to earn higher returns is to have higher factor sensitivity.
 
 ---
 
