@@ -7,7 +7,7 @@ This paper examines the diversification benefits from the perspective of local i
 The authors compare the returns of two distinct investment strategies:
 * **Local Portfolio:** A portfolio consisting of all local stocks within the investor's home country.
 * **Global Portfolio:** An equally weighted portfolio across all 22 countries. 
-    * Each country represents $1/22 \approx 4.54% of the total portfolio.
+    * Each country represents 1/22 ~ 4.54% of the total portfolio.
 
 ---
 
