@@ -1,6 +1,7 @@
 ## Arbitrage Theory of Capital Asset Pricing (1976)
 
-The Arbitrage Theory of Capital Asset Pricing (APT), introduced by Stephen Ross in 1976, states that if markets do not allow arbitrage opportunities, then asset returns must follow a specific linear structure. If two portfolios have the same risks, they must have the same expected return; otherwise, arbitrage would exist.
+The Arbitrage Theory of Capital Asset Pricing (APT), introduced by Stephen Ross in 1976, states that if markets do not allow arbitrage opportunities, then asset returns must follow a specific linear structure. If two portfolios have the same risks, they must have the same expected return; otherwise, arbitrage would exist. 
+Using only the no-arbitrage assumption makes the model more realistic than earlier asset pricing models.
 
 ---
 
@@ -32,8 +33,8 @@ R - \mathbb{E}[R] = b_{i1}F_1 + b_{i2}F_2 + \cdots + b_{ik}F_k + \varepsilon_i
 $$
 
 Where:
-- $F_j$ is a **factor** — a systematic macroeconomic variable such as inflation or interest rates
-- $b_{ij}$ is the **factor loading** — how sensitive a stock is to a change in factor $j$
+- $F_j$ is a **factor**, which is a systematic source of market wide risk that influences returns. Some common factors include interest rates, commodity prices, and tax policy.
+- $b_{ij}$ is the **factor loading** which measures how sensitive a stock is to a change in factor $j$.
 - $\varepsilon_i$ is the **idiosyncratic risk** of a single stock (the error term)
 
 ---
@@ -46,7 +47,7 @@ $$
 
 Where:
 - $R_f$ is the **risk-free rate**
-- $\beta_{ij}$ is the **factor loading** for asset $i$ on factor $j$
+- $\beta_{ij}$ is the **factor loading** for asset $i$ on factor $j$ 
 - $\lambda_j$ is the **risk premium** for factor $j$ — the extra return the market offers for being exposed to one unit of risk from that factor
 
 A larger $\beta_{ij}$ for a specific factor means the asset's return is more sensitive to economic shocks from that factor.
@@ -58,3 +59,4 @@ In an ideal market, $\lambda_j$ is the same for all assets, meaning the only way
 ### Factors and Linear Pricing
 
 APT does not define the specific factors but asserts that they must exist. Using the no‑arbitrage condition, Ross shows that asset prices must follow a linear structure.
+
