@@ -1,19 +1,18 @@
 ## Arbitrage Theory of Capital Asset Pricing (1976)
 
-The Arbitrage Theory of Capital Asset Pricing (APT), introduced by Stephen Ross in 1976, states that if markets do not allow arbitrage opportunities, then asset returns must follow a specific linear structure. If two portfolios have the same risks, they must have the same expected return; otherwise, arbitrage would exist. 
-Using only the no-arbitrage assumption makes the model more realistic than earlier asset pricing models.
+The Arbitrage Pricing Theory (APT), developed by Stephen Ross in 1976, says that if there are no arbitrage opportunities in the market, asset returns must follow a linear factor structure. If two portfolios have the same risk, they must offer the same expected return; otherwise, investors could earn risk-free profits. Because APT relies only on the no-arbitrage assumption, it is more realistic than earlier asset pricing model
 
 ---
 
 ### Decomposition of Returns
 
-Ross uses a basic probability identity for any random variable:
+Ross uses a basic probability identity for any random variable to explain where returns come from:
 
 $$
 X = \mathbb{E}[X] + (X - \mathbb{E}[X])
 $$
 
-This separates a variable into its expected value and its unexpected component. Applying this to asset returns:
+This separates a variable into its expected part and its unexpected component.
 
 $$
 R = \mathbb{E}[R] + (R - \mathbb{E}[R])
@@ -58,5 +57,4 @@ In an ideal market, $\lambda_j$ is the same for all assets, meaning the only way
 
 ### Factors and Linear Pricing
 
-APT does not define the specific factors but asserts that they must exist. Using the no‑arbitrage condition, Ross shows that asset prices must follow a linear structure.
-
+APT does not specify the exact factors but requires their existence. Using the no‑arbitrage condition, Ross shows that asset prices follow a linear structure. Even without knowing the factors, APT implies that expected returns are a linear combination of them, providing a testable prediction. It also introduced the concept that multiple systematic factors can drive asset returns, paving the way for multifactor models like Fama–French.
