@@ -32,7 +32,7 @@ The authors explain these results by decomposing returns using the **Price-to-Ea
 
 
 ### 1. Short Term: Investor Sentiment
-The P/E ratio represents the amount investors are willing to pay for $\$1$ of earnings (e.g., a P/E of 25 means paying $\$25$ for $\$1$ of today's earnings).
+The P/E ratio represents the amount investors are willing to pay for $1 of earnings (e.g., a P/E of 25 means paying $25 for $1 of today's earnings).
 * **Behavior:** Over short periods (like 1 month), investors often panic and sell globally, meaning **sentiment** determines short-term correlations.
 
 ### 2. Long Term: Economic Fundamentals
