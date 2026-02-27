@@ -48,7 +48,7 @@ $$
 Where:
 - $R_f$ is the **risk-free rate**
 - $\beta_{ij}$ is the **factor loading** for asset $i$ on factor $j$ 
-- $\lambda_j$ is the **risk premium** for factor $j$ — the extra return the market offers for being exposed to one unit of risk from that factor
+- $\lambda_j$ is the **risk premium** for factor $j$ which is the extra return the market offers for being exposed to one unit of risk from that factor
 
 A larger $\beta_{ij}$ for a specific factor means the asset's return is more sensitive to economic shocks from that factor.
 
