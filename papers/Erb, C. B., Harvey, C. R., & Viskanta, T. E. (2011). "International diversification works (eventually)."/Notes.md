@@ -1,4 +1,4 @@
-# Analysis of International Diversification Benefits (1950–2008)
+# International diversification works (eventually)(2011)
 
 ## Study Overview
 This paper examines the diversification benefits from the perspective of local investors across **22 countries** over a 58-year period, from **January 1950 to December 2008**.
@@ -7,7 +7,7 @@ This paper examines the diversification benefits from the perspective of local i
 The authors compare the returns of two distinct investment strategies:
 * **Local Portfolio:** A portfolio consisting of all local stocks within the investor's home country.
 * **Global Portfolio:** An equally weighted portfolio across all 22 countries. 
-    * Each country represents $1/22 \approx 4.54\%$ of the total portfolio.
+    * Each country represents $1/22 \approx 4.54% of the total portfolio.
 
 ---
 
@@ -44,4 +44,4 @@ Over 10-year periods, P/E ratios are **mean-reverting**; if a market becomes too
     * **Innovation**
 
 ## Conclusion
-While diversification often "disappears" during a 1-month crash due to shared global panic, it remains a powerful tool for the long-term investor. Over 10 years, the unique economic fundamentals of each country drive returns, significantly lowering the correlation between markets.
+While diversification may seem to "disappear" during short-term crises, such as a one-month market crash driven by global panic, it remains a powerful tool for long-term investors. Over a decade, the unique economic fundamentals of each country drive returns, significantly reducing correlations between markets. Diversification protects investors from being fully exposed to a single country’s stagnation. For example, during Japan’s “lost decade” (1990–2010), real returns were roughly -0.2% to -0.5% per year, whereas a globally diversified portfolio would have delivered 5–6% annualized real returns. Similarly, in the U.S. lost decade (2000–2009), marked by the dot-com bubble and the global financial crisis, the S&P 500 returned about -37% after inflation, while a global equal-weight portfolio gained roughly +28% over the same period.
