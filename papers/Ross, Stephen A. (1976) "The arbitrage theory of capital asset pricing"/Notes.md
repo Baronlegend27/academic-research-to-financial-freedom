@@ -23,8 +23,8 @@ Thus, returns consist of:
 
 - **Expected return**: $\mathbb{E}[R]$
 - **Unexpected return**: $R - \mathbb{E}[R]$
-The unexpected return is the suprise return that comes from new information. The unexpected return is the only part that moves prices day to day.
-The expected return is is what the investor thought they would earn on average. 
+The unexpected return is the surprise return that comes from new information. The unexpected return is the only part that moves prices day to day.
+The expected return is what the investor thought they would earn on average. 
 
 The unexpected return decomposes as:
 
