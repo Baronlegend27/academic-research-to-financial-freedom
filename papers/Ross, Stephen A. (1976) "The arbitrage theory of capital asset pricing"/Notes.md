@@ -29,12 +29,12 @@ The expected return is is what the investor thought they would earn on average.
 The unexpected return decomposes as:
 
 $$
-R - \mathbb{E}[R] = b_{i1}F_1 + b_{i2}F_2 + \cdots + b_{ik}F_k + \varepsilon_i
+R - \mathbb{E}[R] = \beta_{i1}F_1 + \beta_{i2}F_2 + \cdots + \beta_{ik}F_k + \varepsilon_i
 $$
 
 Where:
 - $F_j$ is a **factor**, which is a systematic source of market wide risk that influences returns. Some common factors include interest rates, commodity prices, and tax policy.
-- $b_{ij}$ is the **factor loading** which measures how sensitive a stock is to a change in factor $j$.
+- $\beta_{ij}$ is the **factor loading** which measures how sensitive a stock is to a change in factor $j$.
 - $\varepsilon_i$ is the **idiosyncratic risk** of a single stock (the error term)
 
 ---
