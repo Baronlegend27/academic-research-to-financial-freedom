@@ -1,31 +1,28 @@
-# Deep Factor Based ETFS
+# Deep Factor Based ETFs
 These Dimensional Funds aim to systematically tilt toward the characteristics that have been shown to improve long-term returns: value, smaller size, and profitability. These funds will usually have a higher weighting in cyclical industries. These funds tilt toward value, small size, and profitability much more aggressively than most other funds on the market.
-
 
 ## DFSV (Dimensional US Small Cap Value ETF)
 - Invests mainly in small U.S. companies (bottom ~10% of the market by size)
 - Focuses on “value” stocks (companies that look cheap vs earnings, book value, etc.)
-- Tilts toward more profitable companies to improve expected returns
-- Diversified across many stocks and industries to manage risk
+- Overweights more profitable small-cap companies to enhance expected long-term returns.
+- Provides broad U.S. diversification, spreading risk across multiple sectors.
 link: https://www.dimensional.com/us-en/funds/dfsv/us-small-cap-value-etf
 
 ## DISV (Dimensional International Small Cap Value ETF) 
-- Invests mainly in small companies outside the U.S. (developed markets like Europe, Japan, etc.)
-- Focuses on “value” stocks (companies that look cheap based on fundamentals)
-- Tilts toward more profitable companies to boost expected returns
-- Diversified across countries, sectors, and companies to reduce risk
-- Uses market-cap weighting, but may overweight smaller, cheaper, or more profitable firms
+- Focuses on small-cap companies outside the U.S., spanning developed markets such as Europe, Japan, and Australia.
+- Tilts toward value and profitability, emphasizing cheaper and more efficient firms.
+- Diversifies across countries and sectors, reducing single-market and single-industry risk.
+- Uses modified market-cap weighting, slightly overweighting smaller, undervalued, or more profitable international firms.
 https://prospectus-express.broadridge.com/summary.asp?doctype=spro&clientid=dimenll&fundid=25434V781
 
 ## DFEV (Dimensional Emerging Markets Value ETF)
-- Invests mainly in emerging market countries (and may include frontier markets, which are even less developed)
-- Focuses on “value” stocks (companies that look cheap based on fundamentals like book value, earnings, cash flow)
-- Invests in companies of any size (not just small caps)
-- Tilts toward smaller, cheaper, and more profitable companies
-- Diversified across countries, sectors, and companies to manage risk
+- Invests in emerging and frontier market companies, offering access to less-developed economies with growth potential.
+- Targets value stocks across all sizes, not limited to small-cap companies.
+- Overweights smaller, cheaper, and more profitable firms to capture factor-driven returns.
+- Provides broad geographic and sector diversification, mitigating risks of individual countries or industries.
 https://prospectus-express.broadridge.com/summary.asp?doctype=spro&clientid=dimenll&fundid=25434V740
 
-# DFAX (Dimensional World ex U.S. Core Equity 2 ETF)
+## DFAX (Dimensional World ex U.S. Core Equity 2 ETF)
 - Invests broadly in non-U.S. companies (developed and emerging markets).
 - Overweights smaller capitalization, lower relative price (value), and higher profitability companies.
 - Extremely diversified, effectively holding a wide spectrum of virtually all stocks outside the United States.
@@ -33,7 +30,7 @@ https://prospectus-express.broadridge.com/summary.asp?doctype=spro&clientid=dime
 
 
 # Well diversified Low cost Index funds
-These are best for investors who are looking for safety. Since they are extremely well-diversified, they do not focus on holding small-cap stocks or value stocks, but rather provide exposure to the entire market.
+These funds are best for investors seeking safety and extreme diversification. They provide broad market exposure without tilting toward small-cap stocks, value stocks, or any particular factors, making them ideal for those with the lowest risk tolerance.
 
 ## VT (Vanguard Total World Stock ETF)
 - This single fund holds the entire global market, including ~9,000+ stocks from both the U.S. and international markets.
@@ -69,18 +66,18 @@ https://investor.vanguard.com/investment-products/etfs/profile/vea
 
 
 # Diversified Factor Tilts 
-These funds are still well-diversified; however, they tilt toward properties that give stocks better long-term returns.
+These funds are well-diversified, but they intentionally tilt toward characteristics that have been shown to improve long-term stock returns. These funds are best for investors who want extensive diversification but also want modest tilts toward factors that can enhance long-term returns.
 
 ## VBR (Vanguard Small-Cap Value ETF)
-- Focuses only on U.S. small-cap companies
-- Targets undervalued stocks rather than all small companies
+- Invests exclusively in small U.S. companies, capturing the growth potential of the market’s smaller segment.
+- Focuses on undervalued stocks, targeting companies priced below their fundamental worth.
 - Includes hundreds of individual small-cap value stocks
+- Tilts toward cyclical industries, since smaller, undervalued companies are often found in sectors like industrials, materials, and consumer discretionary.
 https://investor.vanguard.com/investment-products/etfs/profile/vbr
 
 ## VSS (Vanguard FTSE All-World ex-US Small-Cap ETF)
 - Focuses on small-cap companies outside the U.S.
-- Includes hundreds of individual companies across developed and emerging markets
-- Provides diversification across countries and sectors outside the U.S.
+- Includes thousands of individual companies across developed and emerging markets
+- Provides diversification across countries and sectors, reducing single-country or sector risk.
+- Naturally tilts toward cyclical industries, including sectors like industrials, materials, consumer discretionary, and mining, which is a significant part of many international economies.
 https://investor.vanguard.com/investment-products/etfs/profile/vss
-
-
