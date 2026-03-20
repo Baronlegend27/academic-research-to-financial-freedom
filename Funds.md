@@ -2,14 +2,14 @@
 These Dimensional Funds aim to systematically tilt toward the characteristics that have been shown to improve long-term returns: value, smaller size, and profitability. These funds will usually have a higher weighting in cyclical industries. These funds tilt toward value, small size, and profitability much more aggressively than most other funds on the market.
 
 
-# DFSV (Dimensional US Small Cap Value ETF)
+## DFSV (Dimensional US Small Cap Value ETF)
 - Invests mainly in small U.S. companies (bottom ~10% of the market by size)
 - Focuses on “value” stocks (companies that look cheap vs earnings, book value, etc.)
 - Tilts toward more profitable companies to improve expected returns
 - Diversified across many stocks and industries to manage risk
 link: https://www.dimensional.com/us-en/funds/dfsv/us-small-cap-value-etf
 
-# DISV (Dimensional International Small Cap Value ETF) 
+## DISV (Dimensional International Small Cap Value ETF) 
 - Invests mainly in small companies outside the U.S. (developed markets like Europe, Japan, etc.)
 - Focuses on “value” stocks (companies that look cheap based on fundamentals)
 - Tilts toward more profitable companies to boost expected returns
@@ -17,7 +17,7 @@ link: https://www.dimensional.com/us-en/funds/dfsv/us-small-cap-value-etf
 - Uses market-cap weighting, but may overweight smaller, cheaper, or more profitable firms
 https://prospectus-express.broadridge.com/summary.asp?doctype=spro&clientid=dimenll&fundid=25434V781
 
-# DFEV (Dimensional Emerging Markets Value ETF)
+## DFEV (Dimensional Emerging Markets Value ETF)
 - Invests mainly in emerging market countries (and may include frontier markets, which are even less developed)
 - Focuses on “value” stocks (companies that look cheap based on fundamentals like book value, earnings, cash flow)
 - Invests in companies of any size (not just small caps)
@@ -54,14 +54,14 @@ https://investor.vanguard.com/investment-products/etfs/profile/vti
 - Excludes U.S. companies, focusing entirely on international diversification
 https://investor.vanguard.com/investment-products/etfs/profile/vxus
 
-# VWO (Vanguard FTSE Emerging Markets ETF)
+## VWO (Vanguard FTSE Emerging Markets ETF)
 - Broad emerging markets equity ETF (invests in emerging economies worldwide).
 - Top Country Exposure: China, Taiwan, India, Brazil, South Africa, and others.
 - Holds thousands of different companies
 - Holds stocks across all market capitalizations (large‑, mid‑, and small‑cap)
 https://investor.vanguard.com/investment-products/etfs/profile/vwo#overview
 
-# VEA (Vanguard FTSE Developed Markets ETF)
+## VEA (Vanguard FTSE Developed Markets ETF)
 - Gives broad exposure to developed equity markets outside the U.S
 - It holds thousands of companies from established economies like Japan, the United Kingdom, Canada, France, Germany, and more.
 - Includes large‑, mid‑, and small‑cap companies
@@ -71,23 +71,16 @@ https://investor.vanguard.com/investment-products/etfs/profile/vea
 # Diversified Factor Tilts 
 These funds are still well-diversified; however, they tilt toward properties that give stocks better long-term returns.
 
-VBR (Vanguard Small-Cap Value ETF)
+## VBR (Vanguard Small-Cap Value ETF)
 - Focuses only on U.S. small-cap companies
 - Targets undervalued stocks rather than all small companies
 - Includes hundreds of individual small-cap value stocks
 https://investor.vanguard.com/investment-products/etfs/profile/vbr
 
-VSS (Vanguard FTSE All-World ex-US Small-Cap ETF)
+## VSS (Vanguard FTSE All-World ex-US Small-Cap ETF)
 - Focuses on small-cap companies outside the U.S.
 - Includes hundreds of individual companies across developed and emerging markets
 - Provides diversification across countries and sectors outside the U.S.
 https://investor.vanguard.com/investment-products/etfs/profile/vss
 
 
-
-
-
-VBR
-
- 
-](https://investor.vanguard.com/investment-products/etfs/profile/vea)
